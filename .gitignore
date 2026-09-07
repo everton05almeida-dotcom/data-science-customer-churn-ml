@@ -2,3 +2,9 @@ __pycache__/
 .venv/
 .ipynb_checkpoints/
 *.pyc
+
+# Artefatos gerados pelo pipeline
+dados/clientes_churn.csv
+dados/clientes_churn_score.csv
+modelos/*.pkl
+outputs/churn_por_contrato.png
