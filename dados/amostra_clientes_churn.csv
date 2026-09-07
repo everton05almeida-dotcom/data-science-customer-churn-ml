@@ -1,0 +1,26 @@
+id,cliente,tempo_cliente_meses,mensalidade,tipo_contrato,contatos_suporte,tickets_abertos,dias_atraso_pagamento,satisfacao,uso_mensal_horas,forma_pagamento,segmento,indicacoes,churn
+1,CLI-00001,47,139.56,Mensal,2,7,15,5,24.5,Pix,Premium,5,0
+2,CLI-00002,2,102.62,Anual,5,0,37,2,56.9,Pix,Premium,2,0
+3,CLI-00003,10,184.75,Mensal,0,0,35,4,50.2,Pix,Premium,4,1
+4,CLI-00004,63,214.11,Anual,2,6,39,5,45.9,Cartão,Básico,4,0
+5,CLI-00005,12,167.11,Mensal,8,8,27,3,49.1,Boleto,Premium,0,0
+6,CLI-00006,56,231.54,Mensal,7,2,14,2,20.0,Boleto,Básico,4,0
+7,CLI-00007,69,113.41,Mensal,7,2,1,4,22.7,Débito automático,Básico,1,0
+8,CLI-00008,8,218.99,Anual,2,0,4,3,17.5,Boleto,Premium,2,0
+9,CLI-00009,32,158.72,Mensal,5,9,15,1,7.5,Cartão,Premium,5,1
+10,CLI-00010,23,172.42,Mensal,6,10,9,3,39.9,Boleto,Básico,4,1
+11,CLI-00011,3,97.17,Mensal,3,7,10,5,48.9,Boleto,Intermediário,1,0
+12,CLI-00012,6,154.94,Mensal,8,4,1,4,38.2,Cartão,Básico,3,0
+13,CLI-00013,17,130.47,Mensal,0,8,11,4,29.3,Débito automático,Intermediário,0,1
+14,CLI-00014,34,78.76,Mensal,4,4,44,4,33.7,Boleto,Intermediário,2,0
+15,CLI-00015,43,125.67,Mensal,5,10,43,3,51.0,Boleto,Básico,1,0
+16,CLI-00016,5,73.6,Mensal,7,2,35,3,39.7,Débito automático,Intermediário,4,0
+17,CLI-00017,40,231.64,Mensal,7,2,8,4,10.7,Boleto,Básico,1,1
+18,CLI-00018,33,105.64,Mensal,4,6,24,4,31.3,Pix,Premium,4,0
+19,CLI-00019,42,58.62,Mensal,0,2,35,2,12.8,Cartão,Intermediário,5,0
+20,CLI-00020,10,65.18,Mensal,0,3,18,4,20.6,Pix,Premium,0,1
+21,CLI-00021,42,234.56,Anual,8,8,25,4,38.5,Pix,Intermediário,0,0
+22,CLI-00022,37,101.55,Mensal,7,7,20,4,32.3,Débito automático,Premium,0,0
+23,CLI-00023,6,181.84,Mensal,0,10,34,3,23.0,Débito automático,Intermediário,0,1
+24,CLI-00024,10,240.27,Mensal,1,5,34,4,55.2,Boleto,Intermediário,3,1
+25,CLI-00025,32,193.22,Mensal,4,6,5,4,52.3,Débito automático,Premium,1,0
